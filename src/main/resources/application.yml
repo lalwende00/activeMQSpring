@@ -1,0 +1,6 @@
+spring:
+  profiles: dev
+  activemq:
+    broker-url: tcp://Technobel:61616
+    user: admin
+    password: admin
